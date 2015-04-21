@@ -1,2 +1,2 @@
 # Chinese-Typography
-Chinese typography both on web and on print
+Chinese typography on mobile, web, and print
